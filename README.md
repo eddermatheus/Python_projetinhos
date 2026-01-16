@@ -1,3 +1,3 @@
-# Projetinho teste!
-Primeiro repositório versionado_teste
+# Projetinhos de python!
+projetos simples mesmo para aprendizagem
 
